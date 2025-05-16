@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "better-react-mathjax": "^2.0.3",
-    "plotly.js-dist-min": "^2.34.0",
+    "plotly.js-dist-min": "^2.35.3",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-draggable": "^4.4.6",
