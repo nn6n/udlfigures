@@ -4,7 +4,7 @@
   "homepage": "https://udlbook.github.io/udlfigures",
   "private": true,
   "dependencies": {
-    "better-react-mathjax": "^2.0.3",
+    "better-react-mathjax": "^2.3.0",
     "plotly.js-dist-min": "^2.34.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
